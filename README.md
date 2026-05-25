@@ -1,4 +1,3 @@
-# E-commerce_demand_analysis
 # E-Commerce Revenue Intelligence & Demand Risk Analysis
 
 **Sector:** Retail E-Commerce  
